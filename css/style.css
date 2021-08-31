@@ -11,64 +11,74 @@ header {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 50px;
+    margin-bottom: 0%;
 }
 
 .grigiume {
     color: lightslategray;
     width: 200px;
+    margin-top: 0%;
 }
 
 #booleaner-azzurro {
-    color: darkcyan;
+    color: rgb(61, 204, 240);
+}
+
+#doppia-foto-tim{
+    margin-left: 0;
 }
 
 .evi-giallo {
     background-color: yellow;
 }
 
+ul{
+    padding-left: 1%;
+} 
+
 #testo-tabella {
     text-align: left;
 }
 
 thead{
-    background-color: blue;
+    background-color: rgb(61, 204, 240);
     color: white;
 }
 
 .tab-sfondo-azzurro{
-    background-color: rgb(139, 139, 211);
+    background-color: rgba(61, 204, 240, 0.5);
 }
 
-h2 {
+#titoletto-grigio {
     color: lightslategray;
+    margin-top: 40px;
+    margin-left: 0%;
+    padding: 0%;
+}
+
+h2{
+    margin-left: 10px;
+    padding: 10px;
 }
 
 #foto-monitor{
-    height: 200px;
-    width: 300px;
+    height: 208px;
+    width: 312px;
     background-image: url(../img/monitor.jpg);
-    text-align: center;
-}
-
-#foto-monitor{
-    height: 200px;
-    width: 300px;
-    background-image: url(../img/monitor.jpg);
-    text-align: center;
     color: white;
 }
 
 #foto-grafico{
-    height: 200px;
-    width: 300px;
+    height: 208px;
+    width: 312px;
     background-image: url(../img/graph.jpg);
-    text-align: center;
     color: white;
 }
 
 footer{
     text-align: center;
+    margin-top: 100px;
 }
 
 
