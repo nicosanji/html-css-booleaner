@@ -1,3 +1,7 @@
+body {
+    text-align: left;
+}
+
 header {
     background-color: rgb(29, 146, 185);
     background-image: url(../img/pattern.png);
@@ -6,10 +10,15 @@ header {
 }
 
 .contenitore-titolo {
-    height: 350px;
+    height: 200px;
 }
 
 #thebooleaner {
     height: 50%;
 }
+
+h1 {
+    font-size: 60px;
+}
+
 
