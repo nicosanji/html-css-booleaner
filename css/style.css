@@ -1,20 +1,13 @@
-body {
-    text-align: left;
-}
-
 header {
     background-color: rgb(29, 146, 185);
     background-image: url(../img/pattern.png);
     background-size: contain;
-    background-repeat: repeat;
-}
-
-.contenitore-titolo {
-    height: 200px;
+    height: 160px;
 }
 
 #thebooleaner {
-    height: 50%;
+    height: 80px;
+    margin-top: 80px;
 }
 
 h1 {
@@ -32,6 +25,10 @@ h1 {
 
 .evi-giallo {
     background-color: yellow;
+}
+
+#testo-tabella {
+    text-align: left;
 }
 
 thead{
