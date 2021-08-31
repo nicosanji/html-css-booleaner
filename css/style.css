@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(29, 146, 185);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+.contenitore-titolo {
+    height: 350px;
+}
+
+#thebooleaner {
+    height: 50%;
+}
+
