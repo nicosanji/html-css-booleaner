@@ -29,6 +29,10 @@ h1 {
     margin-left: 0;
 }
 
+figcaption{
+    font-size: small;
+}
+
 .evi-giallo {
     background-color: yellow;
 }
