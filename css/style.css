@@ -47,7 +47,28 @@ h2 {
     color: lightslategray;
 }
 
+#foto-monitor{
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/monitor.jpg);
+    text-align: center;
+}
 
+#foto-monitor{
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/monitor.jpg);
+    text-align: center;
+    color: white;
+}
+
+#foto-grafico{
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/graph.jpg);
+    text-align: center;
+    color: white;
+}
 
 footer{
     text-align: center;
