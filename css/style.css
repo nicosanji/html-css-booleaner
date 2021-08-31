@@ -21,4 +21,37 @@ h1 {
     font-size: 60px;
 }
 
+.grigiume {
+    color: lightslategray;
+    width: 200px;
+}
+
+#booleaner-azzurro {
+    color: darkcyan;
+}
+
+.evi-giallo {
+    background-color: yellow;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+.tab-sfondo-azzurro{
+    background-color: rgb(139, 139, 211);
+}
+
+h2 {
+    color: lightslategray;
+}
+
+
+
+footer{
+    text-align: center;
+}
+
+
 
